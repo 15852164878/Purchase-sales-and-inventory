@@ -1,0 +1,7 @@
+C:\Users\LX\Desktop\Purchase and sale - 副本 (3) - 副本 - 副本\DAL\bin\Release\DAL.dll
+C:\Users\LX\Desktop\Purchase and sale - 副本 (3) - 副本 - 副本\DAL\bin\Release\DAL.pdb
+C:\Users\LX\Desktop\Purchase and sale - 副本 (3) - 副本 - 副本\DAL\bin\Release\DbUtility.dll
+C:\Users\LX\Desktop\Purchase and sale - 副本 (3) - 副本 - 副本\DAL\bin\Release\DbUtility.pdb
+C:\Users\LX\Desktop\Purchase and sale - 副本 (3) - 副本 - 副本\DAL\obj\Release\DAL.csprojResolveAssemblyReference.cache
+C:\Users\LX\Desktop\Purchase and sale - 副本 (3) - 副本 - 副本\DAL\obj\Release\DAL.dll
+C:\Users\LX\Desktop\Purchase and sale - 副本 (3) - 副本 - 副本\DAL\obj\Release\DAL.pdb

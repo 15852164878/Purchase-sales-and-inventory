@@ -1,0 +1,9 @@
+C:\Users\LX\Desktop\Purchase and sale - 副本 (3) - 副本 - 副本\BLL\bin\Release\BLL.dll
+C:\Users\LX\Desktop\Purchase and sale - 副本 (3) - 副本 - 副本\BLL\bin\Release\BLL.pdb
+C:\Users\LX\Desktop\Purchase and sale - 副本 (3) - 副本 - 副本\BLL\bin\Release\DAL.dll
+C:\Users\LX\Desktop\Purchase and sale - 副本 (3) - 副本 - 副本\BLL\bin\Release\DbUtility.dll
+C:\Users\LX\Desktop\Purchase and sale - 副本 (3) - 副本 - 副本\BLL\bin\Release\DAL.pdb
+C:\Users\LX\Desktop\Purchase and sale - 副本 (3) - 副本 - 副本\BLL\bin\Release\DbUtility.pdb
+C:\Users\LX\Desktop\Purchase and sale - 副本 (3) - 副本 - 副本\BLL\obj\Release\BLL.csprojResolveAssemblyReference.cache
+C:\Users\LX\Desktop\Purchase and sale - 副本 (3) - 副本 - 副本\BLL\obj\Release\BLL.dll
+C:\Users\LX\Desktop\Purchase and sale - 副本 (3) - 副本 - 副本\BLL\obj\Release\BLL.pdb

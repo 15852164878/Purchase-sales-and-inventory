@@ -1,0 +1,3 @@
+C:\Users\LX\Desktop\Purchase and sale\Purchase and sale\bin\Debug\Purchase and sale.exe.config
+C:\Users\LX\Desktop\Purchase and sale\Purchase and sale\obj\Debug\Purchase and sale.exe
+C:\Users\LX\Desktop\Purchase and sale\Purchase and sale\obj\Debug\Purchase and sale.pdb

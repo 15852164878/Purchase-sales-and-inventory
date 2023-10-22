@@ -1,0 +1,292 @@
+C:\Users\LX\Desktop\Purchase and sale\Purchase and sale\bin\Debug\Purchase and sale.exe.config
+C:\Users\LX\Desktop\Purchase and sale\Purchase and sale\bin\Debug\Purchase and sale.exe
+C:\Users\LX\Desktop\Purchase and sale\Purchase and sale\bin\Debug\Purchase and sale.pdb
+C:\Users\LX\Desktop\Purchase and sale\Purchase and sale\obj\Debug\Purchase and sale.csprojResolveAssemblyReference.cache
+C:\Users\LX\Desktop\Purchase and sale\Purchase and sale\obj\Debug\Purchase_and_sale.Employee_registration.resources
+C:\Users\LX\Desktop\Purchase and sale\Purchase and sale\obj\Debug\Purchase_and_sale.Properties.Resources.resources
+C:\Users\LX\Desktop\Purchase and sale\Purchase and sale\obj\Debug\Purchase and sale.csproj.GenerateResource.Cache
+C:\Users\LX\Desktop\Purchase and sale\Purchase and sale\obj\Debug\Purchase and sale.exe
+C:\Users\LX\Desktop\Purchase and sale\Purchase and sale\obj\Debug\Purchase and sale.pdb
+C:\Users\LX\Desktop\Purchase and sale\Purchase and sale\bin\Debug\DbUtility.dll
+C:\Users\LX\Desktop\Purchase and sale\Purchase and sale\bin\Debug\DbUtility.pdb
+C:\Users\LX\Desktop\Purchase and sale\Purchase and sale\obj\Debug\Purchase_and_sale.Employee_information.resources
+C:\Users\LX\Desktop\Purchase and sale\Purchase and sale\obj\Debug\Purchase_and_sale.Employee_competence.resources
+C:\Users\LX\Desktop\Purchase and sale\Purchase and sale\obj\Debug\Purchase_and_sale.MainForm.resources
+C:\Users\LX\Desktop\Purchase and sale\Purchase and sale\obj\Debug\Purchase_and_sale.LoginForm.resources
+C:\Users\LX\Desktop\Purchase and sale\Purchase and sale\obj\Debug\Purchase_and_sale.Purchase.resources
+C:\Users\LX\Desktop\Purchase and sale\Purchase and sale\obj\Debug\Purchase_and_sale.sales.resources
+C:\Users\LX\Desktop\Purchase and sale\Purchase and sale\obj\Debug\Purchase_and_sale.Statistics.resources
+C:\Users\LX\Desktop\Purchase and sale\Purchase and sale\obj\Debug\Purchase_and_sale.Pquery.resources
+C:\Users\LX\Desktop\Purchase and sale\Purchase and sale\obj\Debug\Purchase_and_sale.Commodity.resources
+C:\Users\LX\Desktop\Purchase and sale\Purchase and sale\obj\Debug\Purchase_and_sale.Manufactor.resources
+C:\Users\LX\Desktop\Purchase and sale - 副本 (3)\Purchase and sale\bin\Debug\Purchase and sale.exe.config
+C:\Users\LX\Desktop\Purchase and sale - 副本 (3)\Purchase and sale\obj\Debug\Purchase and sale.exe
+C:\Users\LX\Desktop\Purchase and sale - 副本 (3)\Purchase and sale\obj\Debug\Purchase and sale.pdb
+C:\Users\LX\Desktop\Purchase and sale - 副本 (3)\Purchase and sale\obj\Debug\Purchase and sale.csprojResolveAssemblyReference.cache
+C:\Users\LX\Desktop\Purchase and sale - 副本 (3)\Purchase and sale\obj\Debug\Purchase_and_sale.Commodity.resources
+C:\Users\LX\Desktop\Purchase and sale - 副本 (3)\Purchase and sale\obj\Debug\Purchase_and_sale.Employee_competence.resources
+C:\Users\LX\Desktop\Purchase and sale - 副本 (3)\Purchase and sale\obj\Debug\Purchase_and_sale.Employee_information.resources
+C:\Users\LX\Desktop\Purchase and sale - 副本 (3)\Purchase and sale\obj\Debug\Purchase_and_sale.Employee_registration.resources
+C:\Users\LX\Desktop\Purchase and sale - 副本 (3)\Purchase and sale\obj\Debug\Purchase_and_sale.LoginForm.resources
+C:\Users\LX\Desktop\Purchase and sale - 副本 (3)\Purchase and sale\obj\Debug\Purchase_and_sale.MainForm.resources
+C:\Users\LX\Desktop\Purchase and sale - 副本 (3)\Purchase and sale\obj\Debug\Purchase_and_sale.Manufactor.resources
+C:\Users\LX\Desktop\Purchase and sale - 副本 (3)\Purchase and sale\obj\Debug\Purchase_and_sale.Pquery.resources
+C:\Users\LX\Desktop\Purchase and sale - 副本 (3)\Purchase and sale\obj\Debug\Purchase_and_sale.Properties.Resources.resources
+C:\Users\LX\Desktop\Purchase and sale - 副本 (3)\Purchase and sale\obj\Debug\Purchase_and_sale.Purchase.resources
+C:\Users\LX\Desktop\Purchase and sale - 副本 (3)\Purchase and sale\obj\Debug\Purchase_and_sale.sales.resources
+C:\Users\LX\Desktop\Purchase and sale - 副本 (3)\Purchase and sale\obj\Debug\Purchase_and_sale.Statistics.resources
+C:\Users\LX\Desktop\Purchase and sale - 副本 (3)\Purchase and sale\obj\Debug\Purchase and sale.csproj.GenerateResource.Cache
+C:\Users\LX\Desktop\Purchase and sale - 副本 (3)\Purchase and sale\bin\Debug\Purchase and sale.exe
+C:\Users\LX\Desktop\Purchase and sale - 副本 (3)\Purchase and sale\bin\Debug\Purchase and sale.pdb
+C:\Users\LX\Desktop\Purchase and sale - 副本 (3)\Purchase and sale\bin\Debug\BLL.dll
+C:\Users\LX\Desktop\Purchase and sale - 副本 (3)\Purchase and sale\bin\Debug\DbUtility.dll
+C:\Users\LX\Desktop\Purchase and sale - 副本 (3)\Purchase and sale\bin\Debug\DAL.dll
+C:\Users\LX\Desktop\Purchase and sale - 副本 (3)\Purchase and sale\bin\Debug\BLL.pdb
+C:\Users\LX\Desktop\Purchase and sale - 副本 (3)\Purchase and sale\bin\Debug\DbUtility.pdb
+C:\Users\LX\Desktop\Purchase and sale - 副本 (3)\Purchase and sale\bin\Debug\DAL.pdb
+C:\Users\LX\Desktop\Purchase and sale - 副本 (3)\Purchase and sale\obj\Debug\Purchase_and_sale.Stock_alarm.resources
+C:\Users\LX\Desktop\Purchase and sale - 副本 (3)\Purchase and sale\obj\Debug\Purchase_and_sale.Salequery.resources
+C:\Users\LX\Desktop\Purchase and sale - 副本 (3)\Purchase and sale\obj\Debug\Purchase_and_sale.Discount.resources
+C:\Users\LX\Desktop\Purchase and sale - 副本 (3) - 副本\Purchase and sale\bin\Debug\Purchase and sale.exe.config
+C:\Users\LX\Desktop\Purchase and sale - 副本 (3) - 副本\Purchase and sale\obj\Debug\Purchase and sale.exe
+C:\Users\LX\Desktop\Purchase and sale - 副本 (3) - 副本\Purchase and sale\obj\Debug\Purchase and sale.pdb
+C:\Users\LX\Desktop\Purchase and sale - 副本 (3) - 副本\Purchase and sale\bin\Debug\Purchase and sale.exe
+C:\Users\LX\Desktop\Purchase and sale - 副本 (3) - 副本\Purchase and sale\bin\Debug\Purchase and sale.pdb
+C:\Users\LX\Desktop\Purchase and sale - 副本 (3) - 副本\Purchase and sale\bin\Debug\BLL.dll
+C:\Users\LX\Desktop\Purchase and sale - 副本 (3) - 副本\Purchase and sale\bin\Debug\DAL.dll
+C:\Users\LX\Desktop\Purchase and sale - 副本 (3) - 副本\Purchase and sale\bin\Debug\DbUtility.dll
+C:\Users\LX\Desktop\Purchase and sale - 副本 (3) - 副本\Purchase and sale\bin\Debug\BLL.pdb
+C:\Users\LX\Desktop\Purchase and sale - 副本 (3) - 副本\Purchase and sale\bin\Debug\DAL.pdb
+C:\Users\LX\Desktop\Purchase and sale - 副本 (3) - 副本\Purchase and sale\bin\Debug\DbUtility.pdb
+C:\Users\LX\Desktop\Purchase and sale - 副本 (3) - 副本\Purchase and sale\obj\Debug\Purchase and sale.csprojResolveAssemblyReference.cache
+C:\Users\LX\Desktop\Purchase and sale - 副本 (3) - 副本\Purchase and sale\obj\Debug\Purchase_and_sale.Commodity.resources
+C:\Users\LX\Desktop\Purchase and sale - 副本 (3) - 副本\Purchase and sale\obj\Debug\Purchase_and_sale.Discount.resources
+C:\Users\LX\Desktop\Purchase and sale - 副本 (3) - 副本\Purchase and sale\obj\Debug\Purchase_and_sale.Employee_competence.resources
+C:\Users\LX\Desktop\Purchase and sale - 副本 (3) - 副本\Purchase and sale\obj\Debug\Purchase_and_sale.Employee_information.resources
+C:\Users\LX\Desktop\Purchase and sale - 副本 (3) - 副本\Purchase and sale\obj\Debug\Purchase_and_sale.Employee_registration.resources
+C:\Users\LX\Desktop\Purchase and sale - 副本 (3) - 副本\Purchase and sale\obj\Debug\Purchase_and_sale.LoginForm.resources
+C:\Users\LX\Desktop\Purchase and sale - 副本 (3) - 副本\Purchase and sale\obj\Debug\Purchase_and_sale.MainForm.resources
+C:\Users\LX\Desktop\Purchase and sale - 副本 (3) - 副本\Purchase and sale\obj\Debug\Purchase_and_sale.Manufactor.resources
+C:\Users\LX\Desktop\Purchase and sale - 副本 (3) - 副本\Purchase and sale\obj\Debug\Purchase_and_sale.Pquery.resources
+C:\Users\LX\Desktop\Purchase and sale - 副本 (3) - 副本\Purchase and sale\obj\Debug\Purchase_and_sale.Properties.Resources.resources
+C:\Users\LX\Desktop\Purchase and sale - 副本 (3) - 副本\Purchase and sale\obj\Debug\Purchase_and_sale.Purchase.resources
+C:\Users\LX\Desktop\Purchase and sale - 副本 (3) - 副本\Purchase and sale\obj\Debug\Purchase_and_sale.sales.resources
+C:\Users\LX\Desktop\Purchase and sale - 副本 (3) - 副本\Purchase and sale\obj\Debug\Purchase_and_sale.Salequery.resources
+C:\Users\LX\Desktop\Purchase and sale - 副本 (3) - 副本\Purchase and sale\obj\Debug\Purchase_and_sale.Statistics.resources
+C:\Users\LX\Desktop\Purchase and sale - 副本 (3) - 副本\Purchase and sale\obj\Debug\Purchase_and_sale.Stock_alarm.resources
+C:\Users\LX\Desktop\Purchase and sale - 副本 (3) - 副本\Purchase and sale\obj\Debug\Purchase and sale.csproj.GenerateResource.Cache
+C:\Users\LX\Desktop\Purchase and sale - 副本 (3) - 副本 - 副本\Purchase and sale\bin\Debug\Purchase and sale.exe
+C:\Users\LX\Desktop\Purchase and sale - 副本 (3) - 副本 - 副本\Purchase and sale\bin\Debug\BLL.dll
+C:\Users\LX\Desktop\Purchase and sale - 副本 (3) - 副本 - 副本\Purchase and sale\bin\Debug\DAL.dll
+C:\Users\LX\Desktop\Purchase and sale - 副本 (3) - 副本 - 副本\Purchase and sale\bin\Debug\DbUtility.dll
+C:\Users\LX\Desktop\Purchase and sale - 副本 (3) - 副本 - 副本\Purchase and sale\bin\Debug\Purchase and sale.pdb
+C:\Users\LX\Desktop\Purchase and sale - 副本 (3) - 副本 - 副本\Purchase and sale\bin\Debug\Purchase and sale.exe.config
+C:\Users\LX\Desktop\Purchase and sale - 副本 (3) - 副本 - 副本\Purchase and sale\obj\Debug\Purchase and sale.exe
+C:\Users\LX\Desktop\Purchase and sale - 副本 (3) - 副本 - 副本\Purchase and sale\obj\Debug\Purchase and sale.pdb
+C:\Users\LX\Desktop\Purchase and sale - 副本 (3) - 副本 - 副本\Purchase and sale\bin\Debug\BLL.pdb
+C:\Users\LX\Desktop\Purchase and sale - 副本 (3) - 副本 - 副本\Purchase and sale\bin\Debug\DAL.pdb
+C:\Users\LX\Desktop\Purchase and sale - 副本 (3) - 副本 - 副本\Purchase and sale\bin\Debug\DbUtility.pdb
+C:\Users\LX\Desktop\Purchase and sale - 副本 (3) - 副本 - 副本\Purchase and sale\obj\Debug\Purchase and sale.csprojResolveAssemblyReference.cache
+C:\Users\LX\Desktop\Purchase and sale - 副本 (3) - 副本 - 副本\Purchase and sale\obj\Debug\Purchase_and_sale.Commodity.resources
+C:\Users\LX\Desktop\Purchase and sale - 副本 (3) - 副本 - 副本\Purchase and sale\obj\Debug\Purchase_and_sale.Discount.resources
+C:\Users\LX\Desktop\Purchase and sale - 副本 (3) - 副本 - 副本\Purchase and sale\obj\Debug\Purchase_and_sale.Employee_competence.resources
+C:\Users\LX\Desktop\Purchase and sale - 副本 (3) - 副本 - 副本\Purchase and sale\obj\Debug\Purchase_and_sale.Employee_information.resources
+C:\Users\LX\Desktop\Purchase and sale - 副本 (3) - 副本 - 副本\Purchase and sale\obj\Debug\Purchase_and_sale.Employee_registration.resources
+C:\Users\LX\Desktop\Purchase and sale - 副本 (3) - 副本 - 副本\Purchase and sale\obj\Debug\Purchase_and_sale.LoginForm.resources
+C:\Users\LX\Desktop\Purchase and sale - 副本 (3) - 副本 - 副本\Purchase and sale\obj\Debug\Purchase_and_sale.MainForm.resources
+C:\Users\LX\Desktop\Purchase and sale - 副本 (3) - 副本 - 副本\Purchase and sale\obj\Debug\Purchase_and_sale.Manufactor.resources
+C:\Users\LX\Desktop\Purchase and sale - 副本 (3) - 副本 - 副本\Purchase and sale\obj\Debug\Purchase_and_sale.Pquery.resources
+C:\Users\LX\Desktop\Purchase and sale - 副本 (3) - 副本 - 副本\Purchase and sale\obj\Debug\Purchase_and_sale.Properties.Resources.resources
+C:\Users\LX\Desktop\Purchase and sale - 副本 (3) - 副本 - 副本\Purchase and sale\obj\Debug\Purchase_and_sale.Purchase.resources
+C:\Users\LX\Desktop\Purchase and sale - 副本 (3) - 副本 - 副本\Purchase and sale\obj\Debug\Purchase_and_sale.sales.resources
+C:\Users\LX\Desktop\Purchase and sale - 副本 (3) - 副本 - 副本\Purchase and sale\obj\Debug\Purchase_and_sale.Salequery.resources
+C:\Users\LX\Desktop\Purchase and sale - 副本 (3) - 副本 - 副本\Purchase and sale\obj\Debug\Purchase_and_sale.Statistics.resources
+C:\Users\LX\Desktop\Purchase and sale - 副本 (3) - 副本 - 副本\Purchase and sale\obj\Debug\Purchase_and_sale.Stock_alarm.resources
+C:\Users\LX\Desktop\Purchase and sale - 副本 (3) - 副本 - 副本\Purchase and sale\obj\Debug\Purchase and sale.csproj.GenerateResource.Cache
+C:\Users\LX\Desktop\Purchase and sale - 副本 (3) - 副本 - 副本\Purchase and sale\obj\Debug\Purchase and sale.TrustInfo.xml
+C:\Users\LX\Desktop\Purchase and sale - 副本 (3) - 副本 - 副本\Purchase and sale\obj\Debug\Purchase and sale.exe.manifest
+C:\Users\LX\Desktop\Purchase and sale - 副本 (3) - 副本 - 副本\Purchase and sale\obj\Debug\Purchase and sale.application
+C:\Users\LX\Desktop\Purchase and sale - 副本 (3) - 副本 - 副本 - 副本\Purchase and sale\bin\Debug\Purchase and sale.exe.config
+C:\Users\LX\Desktop\Purchase and sale - 副本 (3) - 副本 - 副本 - 副本\Purchase and sale\obj\Debug\Purchase and sale.exe
+C:\Users\LX\Desktop\Purchase and sale - 副本 (3) - 副本 - 副本 - 副本\Purchase and sale\obj\Debug\Purchase and sale.pdb
+C:\Users\LX\Desktop\Purchase and sale - 副本 (3) - 副本 - 副本 - 副本\Purchase and sale\bin\Debug\Purchase and sale.exe.manifest
+C:\Users\LX\Desktop\Purchase and sale - 副本 (3) - 副本 - 副本 - 副本\Purchase and sale\bin\Debug\Purchase and sale.application
+C:\Users\LX\Desktop\Purchase and sale - 副本 (3) - 副本 - 副本 - 副本\Purchase and sale\bin\Debug\Purchase and sale.exe
+C:\Users\LX\Desktop\Purchase and sale - 副本 (3) - 副本 - 副本 - 副本\Purchase and sale\bin\Debug\Purchase and sale.pdb
+C:\Users\LX\Desktop\Purchase and sale - 副本 (3) - 副本 - 副本 - 副本\Purchase and sale\bin\Debug\BLL.dll
+C:\Users\LX\Desktop\Purchase and sale - 副本 (3) - 副本 - 副本 - 副本\Purchase and sale\bin\Debug\DAL.dll
+C:\Users\LX\Desktop\Purchase and sale - 副本 (3) - 副本 - 副本 - 副本\Purchase and sale\bin\Debug\DbUtility.dll
+C:\Users\LX\Desktop\Purchase and sale - 副本 (3) - 副本 - 副本 - 副本\Purchase and sale\bin\Debug\BLL.pdb
+C:\Users\LX\Desktop\Purchase and sale - 副本 (3) - 副本 - 副本 - 副本\Purchase and sale\bin\Debug\DAL.pdb
+C:\Users\LX\Desktop\Purchase and sale - 副本 (3) - 副本 - 副本 - 副本\Purchase and sale\bin\Debug\DbUtility.pdb
+C:\Users\LX\Desktop\Purchase and sale - 副本 (3) - 副本 - 副本 - 副本\Purchase and sale\obj\Debug\Purchase and sale.csprojResolveAssemblyReference.cache
+C:\Users\LX\Desktop\Purchase and sale - 副本 (3) - 副本 - 副本 - 副本\Purchase and sale\obj\Debug\Purchase_and_sale.Commodity.resources
+C:\Users\LX\Desktop\Purchase and sale - 副本 (3) - 副本 - 副本 - 副本\Purchase and sale\obj\Debug\Purchase_and_sale.Discount.resources
+C:\Users\LX\Desktop\Purchase and sale - 副本 (3) - 副本 - 副本 - 副本\Purchase and sale\obj\Debug\Purchase_and_sale.Employee_competence.resources
+C:\Users\LX\Desktop\Purchase and sale - 副本 (3) - 副本 - 副本 - 副本\Purchase and sale\obj\Debug\Purchase_and_sale.Employee_information.resources
+C:\Users\LX\Desktop\Purchase and sale - 副本 (3) - 副本 - 副本 - 副本\Purchase and sale\obj\Debug\Purchase_and_sale.Employee_registration.resources
+C:\Users\LX\Desktop\Purchase and sale - 副本 (3) - 副本 - 副本 - 副本\Purchase and sale\obj\Debug\Purchase_and_sale.LoginForm.resources
+C:\Users\LX\Desktop\Purchase and sale - 副本 (3) - 副本 - 副本 - 副本\Purchase and sale\obj\Debug\Purchase_and_sale.MainForm.resources
+C:\Users\LX\Desktop\Purchase and sale - 副本 (3) - 副本 - 副本 - 副本\Purchase and sale\obj\Debug\Purchase_and_sale.Manufactor.resources
+C:\Users\LX\Desktop\Purchase and sale - 副本 (3) - 副本 - 副本 - 副本\Purchase and sale\obj\Debug\Purchase_and_sale.Pquery.resources
+C:\Users\LX\Desktop\Purchase and sale - 副本 (3) - 副本 - 副本 - 副本\Purchase and sale\obj\Debug\Purchase_and_sale.Properties.Resources.resources
+C:\Users\LX\Desktop\Purchase and sale - 副本 (3) - 副本 - 副本 - 副本\Purchase and sale\obj\Debug\Purchase_and_sale.Purchase.resources
+C:\Users\LX\Desktop\Purchase and sale - 副本 (3) - 副本 - 副本 - 副本\Purchase and sale\obj\Debug\Purchase_and_sale.sales.resources
+C:\Users\LX\Desktop\Purchase and sale - 副本 (3) - 副本 - 副本 - 副本\Purchase and sale\obj\Debug\Purchase_and_sale.Salequery.resources
+C:\Users\LX\Desktop\Purchase and sale - 副本 (3) - 副本 - 副本 - 副本\Purchase and sale\obj\Debug\Purchase_and_sale.Statistics.resources
+C:\Users\LX\Desktop\Purchase and sale - 副本 (3) - 副本 - 副本 - 副本\Purchase and sale\obj\Debug\Purchase_and_sale.Stock_alarm.resources
+C:\Users\LX\Desktop\Purchase and sale - 副本 (3) - 副本 - 副本 - 副本\Purchase and sale\obj\Debug\Purchase and sale.csproj.GenerateResource.Cache
+C:\Users\LX\Desktop\Purchase and sale - 副本 (3) - 副本 - 副本 - 副本\Purchase and sale\obj\Debug\Purchase and sale.TrustInfo.xml
+C:\Users\LX\Desktop\Purchase and sale - 副本 (3) - 副本 - 副本 - 副本\Purchase and sale\obj\Debug\Purchase and sale.exe.manifest
+C:\Users\LX\Desktop\Purchase and sale - 副本 (3) - 副本 - 副本 - 副本\Purchase and sale\obj\Debug\Purchase and sale.application
+C:\Users\LX\Desktop\Purchase and sale\Purchase and sale\bin\Debug\Purchase and sale.exe.manifest
+C:\Users\LX\Desktop\Purchase and sale\Purchase and sale\bin\Debug\Purchase and sale.application
+C:\Users\LX\Desktop\Purchase and sale\Purchase and sale\bin\Debug\BLL.dll
+C:\Users\LX\Desktop\Purchase and sale\Purchase and sale\bin\Debug\DAL.dll
+C:\Users\LX\Desktop\Purchase and sale\Purchase and sale\bin\Debug\BLL.pdb
+C:\Users\LX\Desktop\Purchase and sale\Purchase and sale\bin\Debug\DAL.pdb
+C:\Users\LX\Desktop\Purchase and sale\Purchase and sale\obj\Debug\Purchase_and_sale.Discount.resources
+C:\Users\LX\Desktop\Purchase and sale\Purchase and sale\obj\Debug\Purchase_and_sale.Salequery.resources
+C:\Users\LX\Desktop\Purchase and sale\Purchase and sale\obj\Debug\Purchase_and_sale.Stock_alarm.resources
+C:\Users\LX\Desktop\Purchase and sale\Purchase and sale\obj\Debug\Purchase and sale.TrustInfo.xml
+C:\Users\LX\Desktop\Purchase and sale\Purchase and sale\obj\Debug\Purchase and sale.exe.manifest
+C:\Users\LX\Desktop\Purchase and sale\Purchase and sale\obj\Debug\Purchase and sale.application
+C:\Users\LX\Desktop\Purchase and sale - 副本\Purchase and sale\bin\Debug\Purchase and sale.exe.config
+C:\Users\LX\Desktop\Purchase and sale - 副本\Purchase and sale\obj\Debug\Purchase and sale.exe
+C:\Users\LX\Desktop\Purchase and sale - 副本\Purchase and sale\obj\Debug\Purchase and sale.pdb
+C:\Users\LX\Desktop\Purchase and sale - 副本\Purchase and sale\bin\Debug\Purchase and sale.exe.manifest
+C:\Users\LX\Desktop\Purchase and sale - 副本\Purchase and sale\bin\Debug\Purchase and sale.application
+C:\Users\LX\Desktop\Purchase and sale - 副本\Purchase and sale\bin\Debug\Purchase and sale.exe
+C:\Users\LX\Desktop\Purchase and sale - 副本\Purchase and sale\bin\Debug\Purchase and sale.pdb
+C:\Users\LX\Desktop\Purchase and sale - 副本\Purchase and sale\bin\Debug\BLL.dll
+C:\Users\LX\Desktop\Purchase and sale - 副本\Purchase and sale\bin\Debug\DAL.dll
+C:\Users\LX\Desktop\Purchase and sale - 副本\Purchase and sale\bin\Debug\DbUtility.dll
+C:\Users\LX\Desktop\Purchase and sale - 副本\Purchase and sale\bin\Debug\BLL.pdb
+C:\Users\LX\Desktop\Purchase and sale - 副本\Purchase and sale\bin\Debug\DAL.pdb
+C:\Users\LX\Desktop\Purchase and sale - 副本\Purchase and sale\bin\Debug\DbUtility.pdb
+C:\Users\LX\Desktop\Purchase and sale - 副本\Purchase and sale\obj\Debug\Purchase and sale.csprojResolveAssemblyReference.cache
+C:\Users\LX\Desktop\Purchase and sale - 副本\Purchase and sale\obj\Debug\Purchase_and_sale.Commodity.resources
+C:\Users\LX\Desktop\Purchase and sale - 副本\Purchase and sale\obj\Debug\Purchase_and_sale.Discount.resources
+C:\Users\LX\Desktop\Purchase and sale - 副本\Purchase and sale\obj\Debug\Purchase_and_sale.Employee_competence.resources
+C:\Users\LX\Desktop\Purchase and sale - 副本\Purchase and sale\obj\Debug\Purchase_and_sale.Employee_information.resources
+C:\Users\LX\Desktop\Purchase and sale - 副本\Purchase and sale\obj\Debug\Purchase_and_sale.Employee_registration.resources
+C:\Users\LX\Desktop\Purchase and sale - 副本\Purchase and sale\obj\Debug\Purchase_and_sale.LoginForm.resources
+C:\Users\LX\Desktop\Purchase and sale - 副本\Purchase and sale\obj\Debug\Purchase_and_sale.MainForm.resources
+C:\Users\LX\Desktop\Purchase and sale - 副本\Purchase and sale\obj\Debug\Purchase_and_sale.Manufactor.resources
+C:\Users\LX\Desktop\Purchase and sale - 副本\Purchase and sale\obj\Debug\Purchase_and_sale.Pquery.resources
+C:\Users\LX\Desktop\Purchase and sale - 副本\Purchase and sale\obj\Debug\Purchase_and_sale.Properties.Resources.resources
+C:\Users\LX\Desktop\Purchase and sale - 副本\Purchase and sale\obj\Debug\Purchase_and_sale.Purchase.resources
+C:\Users\LX\Desktop\Purchase and sale - 副本\Purchase and sale\obj\Debug\Purchase_and_sale.sales.resources
+C:\Users\LX\Desktop\Purchase and sale - 副本\Purchase and sale\obj\Debug\Purchase_and_sale.Salequery.resources
+C:\Users\LX\Desktop\Purchase and sale - 副本\Purchase and sale\obj\Debug\Purchase_and_sale.Statistics.resources
+C:\Users\LX\Desktop\Purchase and sale - 副本\Purchase and sale\obj\Debug\Purchase_and_sale.Stock_alarm.resources
+C:\Users\LX\Desktop\Purchase and sale - 副本\Purchase and sale\obj\Debug\Purchase and sale.csproj.GenerateResource.Cache
+C:\Users\LX\Desktop\Purchase and sale - 副本\Purchase and sale\obj\Debug\Purchase and sale.TrustInfo.xml
+C:\Users\LX\Desktop\Purchase and sale - 副本\Purchase and sale\obj\Debug\Purchase and sale.exe.manifest
+C:\Users\LX\Desktop\Purchase and sale - 副本\Purchase and sale\obj\Debug\Purchase and sale.application
+F:\老吴\期末作业\Purchase and sale\Purchase and sale\bin\Debug\Purchase and sale.exe.config
+F:\老吴\期末作业\Purchase and sale\Purchase and sale\obj\Debug\Purchase and sale.exe
+F:\老吴\期末作业\Purchase and sale\Purchase and sale\obj\Debug\Purchase and sale.pdb
+F:\wu\期末作业\Purchase and sale\Purchase and sale\bin\Debug\Purchase and sale.exe.config
+F:\wu\期末作业\Purchase and sale\Purchase and sale\bin\Debug\Purchase and sale.exe.manifest
+F:\wu\期末作业\Purchase and sale\Purchase and sale\bin\Debug\Purchase and sale.application
+F:\wu\期末作业\Purchase and sale\Purchase and sale\bin\Debug\Purchase and sale.exe
+F:\wu\期末作业\Purchase and sale\Purchase and sale\bin\Debug\Purchase and sale.pdb
+F:\wu\期末作业\Purchase and sale\Purchase and sale\bin\Debug\BLL.dll
+F:\wu\期末作业\Purchase and sale\Purchase and sale\bin\Debug\DAL.dll
+F:\wu\期末作业\Purchase and sale\Purchase and sale\bin\Debug\DbUtility.dll
+F:\wu\期末作业\Purchase and sale\Purchase and sale\bin\Debug\BLL.pdb
+F:\wu\期末作业\Purchase and sale\Purchase and sale\bin\Debug\DAL.pdb
+F:\wu\期末作业\Purchase and sale\Purchase and sale\bin\Debug\DbUtility.pdb
+F:\wu\期末作业\Purchase and sale\Purchase and sale\obj\Debug\Purchase and sale.csprojAssemblyReference.cache
+F:\wu\期末作业\Purchase and sale\Purchase and sale\obj\Debug\Purchase_and_sale.Commodity.resources
+F:\wu\期末作业\Purchase and sale\Purchase and sale\obj\Debug\Purchase_and_sale.Discount.resources
+F:\wu\期末作业\Purchase and sale\Purchase and sale\obj\Debug\Purchase_and_sale.Employee_competence.resources
+F:\wu\期末作业\Purchase and sale\Purchase and sale\obj\Debug\Purchase_and_sale.Employee_information.resources
+F:\wu\期末作业\Purchase and sale\Purchase and sale\obj\Debug\Purchase_and_sale.Employee_registration.resources
+F:\wu\期末作业\Purchase and sale\Purchase and sale\obj\Debug\Purchase_and_sale.LoginForm.resources
+F:\wu\期末作业\Purchase and sale\Purchase and sale\obj\Debug\Purchase_and_sale.MainForm.resources
+F:\wu\期末作业\Purchase and sale\Purchase and sale\obj\Debug\Purchase_and_sale.Manufactor.resources
+F:\wu\期末作业\Purchase and sale\Purchase and sale\obj\Debug\Purchase_and_sale.Pquery.resources
+F:\wu\期末作业\Purchase and sale\Purchase and sale\obj\Debug\Purchase_and_sale.Properties.Resources.resources
+F:\wu\期末作业\Purchase and sale\Purchase and sale\obj\Debug\Purchase_and_sale.Purchase.resources
+F:\wu\期末作业\Purchase and sale\Purchase and sale\obj\Debug\Purchase_and_sale.sales.resources
+F:\wu\期末作业\Purchase and sale\Purchase and sale\obj\Debug\Purchase_and_sale.Salequery.resources
+F:\wu\期末作业\Purchase and sale\Purchase and sale\obj\Debug\Purchase_and_sale.Statistics.resources
+F:\wu\期末作业\Purchase and sale\Purchase and sale\obj\Debug\Purchase_and_sale.Stock_alarm.resources
+F:\wu\期末作业\Purchase and sale\Purchase and sale\obj\Debug\Purchase and sale.csproj.GenerateResource.cache
+F:\wu\期末作业\Purchase and sale\Purchase and sale\obj\Debug\Purchase and sale.csproj.CoreCompileInputs.cache
+F:\wu\期末作业\Purchase and sale\Purchase and sale\obj\Debug\Purchase and sale.TrustInfo.xml
+F:\wu\期末作业\Purchase and sale\Purchase and sale\obj\Debug\Purchase and sale.exe.manifest
+F:\wu\期末作业\Purchase and sale\Purchase and sale\obj\Debug\Purchase and sale.application
+F:\wu\期末作业\Purchase and sale\Purchase and sale\obj\Debug\Purchase and sale.csproj.CopyComplete
+F:\wu\期末作业\Purchase and sale\Purchase and sale\obj\Debug\Purchase and sale.exe
+F:\wu\期末作业\Purchase and sale\Purchase and sale\obj\Debug\Purchase and sale.pdb
+C:\Users\LX\Desktop\项目合集\winform\Purchase and sale\Purchase and sale\bin\Debug\Purchase and sale.exe.config
+C:\Users\LX\Desktop\项目合集\winform\Purchase and sale\Purchase and sale\bin\Debug\Purchase and sale.exe.manifest
+C:\Users\LX\Desktop\项目合集\winform\Purchase and sale\Purchase and sale\bin\Debug\Purchase and sale.application
+C:\Users\LX\Desktop\项目合集\winform\Purchase and sale\Purchase and sale\bin\Debug\Purchase and sale.exe
+C:\Users\LX\Desktop\项目合集\winform\Purchase and sale\Purchase and sale\bin\Debug\Purchase and sale.pdb
+C:\Users\LX\Desktop\项目合集\winform\Purchase and sale\Purchase and sale\bin\Debug\BLL.dll
+C:\Users\LX\Desktop\项目合集\winform\Purchase and sale\Purchase and sale\bin\Debug\DAL.dll
+C:\Users\LX\Desktop\项目合集\winform\Purchase and sale\Purchase and sale\bin\Debug\DbUtility.dll
+C:\Users\LX\Desktop\项目合集\winform\Purchase and sale\Purchase and sale\bin\Debug\BLL.pdb
+C:\Users\LX\Desktop\项目合集\winform\Purchase and sale\Purchase and sale\bin\Debug\DAL.pdb
+C:\Users\LX\Desktop\项目合集\winform\Purchase and sale\Purchase and sale\bin\Debug\DbUtility.pdb
+C:\Users\LX\Desktop\项目合集\winform\Purchase and sale\Purchase and sale\obj\Debug\Purchase_and_sale.Commodity.resources
+C:\Users\LX\Desktop\项目合集\winform\Purchase and sale\Purchase and sale\obj\Debug\Purchase_and_sale.Discount.resources
+C:\Users\LX\Desktop\项目合集\winform\Purchase and sale\Purchase and sale\obj\Debug\Purchase_and_sale.Employee_competence.resources
+C:\Users\LX\Desktop\项目合集\winform\Purchase and sale\Purchase and sale\obj\Debug\Purchase_and_sale.Employee_information.resources
+C:\Users\LX\Desktop\项目合集\winform\Purchase and sale\Purchase and sale\obj\Debug\Purchase_and_sale.Employee_registration.resources
+C:\Users\LX\Desktop\项目合集\winform\Purchase and sale\Purchase and sale\obj\Debug\Purchase_and_sale.LoginForm.resources
+C:\Users\LX\Desktop\项目合集\winform\Purchase and sale\Purchase and sale\obj\Debug\Purchase_and_sale.MainForm.resources
+C:\Users\LX\Desktop\项目合集\winform\Purchase and sale\Purchase and sale\obj\Debug\Purchase_and_sale.Manufactor.resources
+C:\Users\LX\Desktop\项目合集\winform\Purchase and sale\Purchase and sale\obj\Debug\Purchase_and_sale.Pquery.resources
+C:\Users\LX\Desktop\项目合集\winform\Purchase and sale\Purchase and sale\obj\Debug\Purchase_and_sale.Properties.Resources.resources
+C:\Users\LX\Desktop\项目合集\winform\Purchase and sale\Purchase and sale\obj\Debug\Purchase_and_sale.Purchase.resources
+C:\Users\LX\Desktop\项目合集\winform\Purchase and sale\Purchase and sale\obj\Debug\Purchase_and_sale.sales.resources
+C:\Users\LX\Desktop\项目合集\winform\Purchase and sale\Purchase and sale\obj\Debug\Purchase_and_sale.Salequery.resources
+C:\Users\LX\Desktop\项目合集\winform\Purchase and sale\Purchase and sale\obj\Debug\Purchase_and_sale.Statistics.resources
+C:\Users\LX\Desktop\项目合集\winform\Purchase and sale\Purchase and sale\obj\Debug\Purchase_and_sale.Stock_alarm.resources
+C:\Users\LX\Desktop\项目合集\winform\Purchase and sale\Purchase and sale\obj\Debug\Purchase and sale.csproj.GenerateResource.cache
+C:\Users\LX\Desktop\项目合集\winform\Purchase and sale\Purchase and sale\obj\Debug\Purchase and sale.TrustInfo.xml
+C:\Users\LX\Desktop\项目合集\winform\Purchase and sale\Purchase and sale\obj\Debug\Purchase and sale.exe.manifest
+C:\Users\LX\Desktop\项目合集\winform\Purchase and sale\Purchase and sale\obj\Debug\Purchase and sale.application
+C:\Users\LX\Desktop\项目合集\winform\Purchase and sale\Purchase and sale\obj\Debug\Purchase and sale.exe
+C:\Users\LX\Desktop\项目合集\winform\Purchase and sale\Purchase and sale\obj\Debug\Purchase and sale.pdb
+C:\Users\LX\Desktop\项目合集\winform\Purchase and sale\Purchase and sale\obj\Debug\Purchase and sale.csprojResolveAssemblyReference.cache
+F:\项目合集\winform\Purchase and sale\Purchase and sale\bin\Debug\Purchase and sale.exe.config
+F:\项目合集\winform\Purchase and sale\Purchase and sale\bin\Debug\Purchase and sale.exe.manifest
+F:\项目合集\winform\Purchase and sale\Purchase and sale\bin\Debug\Purchase and sale.application
+F:\项目合集\winform\Purchase and sale\Purchase and sale\bin\Debug\Purchase and sale.exe
+F:\项目合集\winform\Purchase and sale\Purchase and sale\bin\Debug\Purchase and sale.pdb
+F:\项目合集\winform\Purchase and sale\Purchase and sale\bin\Debug\BLL.dll
+F:\项目合集\winform\Purchase and sale\Purchase and sale\bin\Debug\DAL.dll
+F:\项目合集\winform\Purchase and sale\Purchase and sale\bin\Debug\DbUtility.dll
+F:\项目合集\winform\Purchase and sale\Purchase and sale\bin\Debug\BLL.pdb
+F:\项目合集\winform\Purchase and sale\Purchase and sale\bin\Debug\DAL.pdb
+F:\项目合集\winform\Purchase and sale\Purchase and sale\bin\Debug\DbUtility.pdb
+F:\项目合集\winform\Purchase and sale\Purchase and sale\obj\Debug\Purchase and sale.csproj.AssemblyReference.cache
+F:\项目合集\winform\Purchase and sale\Purchase and sale\obj\Debug\Purchase_and_sale.Commodity.resources
+F:\项目合集\winform\Purchase and sale\Purchase and sale\obj\Debug\Purchase_and_sale.Discount.resources
+F:\项目合集\winform\Purchase and sale\Purchase and sale\obj\Debug\Purchase_and_sale.Employee_competence.resources
+F:\项目合集\winform\Purchase and sale\Purchase and sale\obj\Debug\Purchase_and_sale.Employee_information.resources
+F:\项目合集\winform\Purchase and sale\Purchase and sale\obj\Debug\Purchase_and_sale.Employee_registration.resources
+F:\项目合集\winform\Purchase and sale\Purchase and sale\obj\Debug\Purchase_and_sale.LoginForm.resources
+F:\项目合集\winform\Purchase and sale\Purchase and sale\obj\Debug\Purchase_and_sale.MainForm.resources
+F:\项目合集\winform\Purchase and sale\Purchase and sale\obj\Debug\Purchase_and_sale.Manufactor.resources
+F:\项目合集\winform\Purchase and sale\Purchase and sale\obj\Debug\Purchase_and_sale.Pquery.resources
+F:\项目合集\winform\Purchase and sale\Purchase and sale\obj\Debug\Purchase_and_sale.Properties.Resources.resources
+F:\项目合集\winform\Purchase and sale\Purchase and sale\obj\Debug\Purchase_and_sale.Purchase.resources
+F:\项目合集\winform\Purchase and sale\Purchase and sale\obj\Debug\Purchase_and_sale.sales.resources
+F:\项目合集\winform\Purchase and sale\Purchase and sale\obj\Debug\Purchase_and_sale.Salequery.resources
+F:\项目合集\winform\Purchase and sale\Purchase and sale\obj\Debug\Purchase_and_sale.Statistics.resources
+F:\项目合集\winform\Purchase and sale\Purchase and sale\obj\Debug\Purchase_and_sale.Stock_alarm.resources
+F:\项目合集\winform\Purchase and sale\Purchase and sale\obj\Debug\Purchase and sale.csproj.GenerateResource.cache
+F:\项目合集\winform\Purchase and sale\Purchase and sale\obj\Debug\Purchase and sale.csproj.CoreCompileInputs.cache
+F:\项目合集\winform\Purchase and sale\Purchase and sale\obj\Debug\Purchase and sale.TrustInfo.xml
+F:\项目合集\winform\Purchase and sale\Purchase and sale\obj\Debug\Purchase and sale.exe.manifest
+F:\项目合集\winform\Purchase and sale\Purchase and sale\obj\Debug\Purchase and sale.application
+F:\项目合集\winform\Purchase and sale\Purchase and sale\obj\Debug\Purchase and sale.csproj.CopyComplete
+F:\项目合集\winform\Purchase and sale\Purchase and sale\obj\Debug\Purchase and sale.exe
+F:\项目合集\winform\Purchase and sale\Purchase and sale\obj\Debug\Purchase and sale.pdb

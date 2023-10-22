@@ -1,0 +1,33 @@
+C:\Users\LX\Desktop\Purchase and sale - 副本 (3) - 副本 - 副本\Purchase and sale\bin\Release\Purchase and sale.exe.config
+C:\Users\LX\Desktop\Purchase and sale - 副本 (3) - 副本 - 副本\Purchase and sale\bin\Release\Purchase and sale.exe
+C:\Users\LX\Desktop\Purchase and sale - 副本 (3) - 副本 - 副本\Purchase and sale\bin\Release\Purchase and sale.pdb
+C:\Users\LX\Desktop\Purchase and sale - 副本 (3) - 副本 - 副本\Purchase and sale\bin\Release\BLL.dll
+C:\Users\LX\Desktop\Purchase and sale - 副本 (3) - 副本 - 副本\Purchase and sale\bin\Release\DAL.dll
+C:\Users\LX\Desktop\Purchase and sale - 副本 (3) - 副本 - 副本\Purchase and sale\bin\Release\DbUtility.dll
+C:\Users\LX\Desktop\Purchase and sale - 副本 (3) - 副本 - 副本\Purchase and sale\bin\Release\BLL.pdb
+C:\Users\LX\Desktop\Purchase and sale - 副本 (3) - 副本 - 副本\Purchase and sale\bin\Release\DAL.pdb
+C:\Users\LX\Desktop\Purchase and sale - 副本 (3) - 副本 - 副本\Purchase and sale\bin\Release\DbUtility.pdb
+C:\Users\LX\Desktop\Purchase and sale - 副本 (3) - 副本 - 副本\Purchase and sale\obj\Release\Purchase and sale.csprojResolveAssemblyReference.cache
+C:\Users\LX\Desktop\Purchase and sale - 副本 (3) - 副本 - 副本\Purchase and sale\obj\Release\Purchase_and_sale.Commodity.resources
+C:\Users\LX\Desktop\Purchase and sale - 副本 (3) - 副本 - 副本\Purchase and sale\obj\Release\Purchase_and_sale.Discount.resources
+C:\Users\LX\Desktop\Purchase and sale - 副本 (3) - 副本 - 副本\Purchase and sale\obj\Release\Purchase_and_sale.Employee_competence.resources
+C:\Users\LX\Desktop\Purchase and sale - 副本 (3) - 副本 - 副本\Purchase and sale\obj\Release\Purchase_and_sale.Employee_information.resources
+C:\Users\LX\Desktop\Purchase and sale - 副本 (3) - 副本 - 副本\Purchase and sale\obj\Release\Purchase_and_sale.Employee_registration.resources
+C:\Users\LX\Desktop\Purchase and sale - 副本 (3) - 副本 - 副本\Purchase and sale\obj\Release\Purchase_and_sale.LoginForm.resources
+C:\Users\LX\Desktop\Purchase and sale - 副本 (3) - 副本 - 副本\Purchase and sale\obj\Release\Purchase_and_sale.MainForm.resources
+C:\Users\LX\Desktop\Purchase and sale - 副本 (3) - 副本 - 副本\Purchase and sale\obj\Release\Purchase_and_sale.Manufactor.resources
+C:\Users\LX\Desktop\Purchase and sale - 副本 (3) - 副本 - 副本\Purchase and sale\obj\Release\Purchase_and_sale.Pquery.resources
+C:\Users\LX\Desktop\Purchase and sale - 副本 (3) - 副本 - 副本\Purchase and sale\obj\Release\Purchase_and_sale.Properties.Resources.resources
+C:\Users\LX\Desktop\Purchase and sale - 副本 (3) - 副本 - 副本\Purchase and sale\obj\Release\Purchase_and_sale.Purchase.resources
+C:\Users\LX\Desktop\Purchase and sale - 副本 (3) - 副本 - 副本\Purchase and sale\obj\Release\Purchase_and_sale.sales.resources
+C:\Users\LX\Desktop\Purchase and sale - 副本 (3) - 副本 - 副本\Purchase and sale\obj\Release\Purchase_and_sale.Salequery.resources
+C:\Users\LX\Desktop\Purchase and sale - 副本 (3) - 副本 - 副本\Purchase and sale\obj\Release\Purchase_and_sale.Statistics.resources
+C:\Users\LX\Desktop\Purchase and sale - 副本 (3) - 副本 - 副本\Purchase and sale\obj\Release\Purchase_and_sale.Stock_alarm.resources
+C:\Users\LX\Desktop\Purchase and sale - 副本 (3) - 副本 - 副本\Purchase and sale\obj\Release\Purchase and sale.csproj.GenerateResource.Cache
+C:\Users\LX\Desktop\Purchase and sale - 副本 (3) - 副本 - 副本\Purchase and sale\obj\Release\Purchase and sale.exe
+C:\Users\LX\Desktop\Purchase and sale - 副本 (3) - 副本 - 副本\Purchase and sale\obj\Release\Purchase and sale.pdb
+C:\Users\LX\Desktop\Purchase and sale - 副本 (3) - 副本 - 副本\Purchase and sale\bin\Release\Purchase and sale.exe.manifest
+C:\Users\LX\Desktop\Purchase and sale - 副本 (3) - 副本 - 副本\Purchase and sale\bin\Release\Purchase and sale.application
+C:\Users\LX\Desktop\Purchase and sale - 副本 (3) - 副本 - 副本\Purchase and sale\obj\Release\Purchase and sale.TrustInfo.xml
+C:\Users\LX\Desktop\Purchase and sale - 副本 (3) - 副本 - 副本\Purchase and sale\obj\Release\Purchase and sale.exe.manifest
+C:\Users\LX\Desktop\Purchase and sale - 副本 (3) - 副本 - 副本\Purchase and sale\obj\Release\Purchase and sale.application

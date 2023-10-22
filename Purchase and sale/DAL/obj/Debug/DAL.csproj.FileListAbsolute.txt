@@ -1,0 +1,67 @@
+C:\Users\LX\Desktop\Purchase and sale\DAL\bin\Debug\DAL.dll
+C:\Users\LX\Desktop\Purchase and sale\DAL\bin\Debug\DAL.pdb
+C:\Users\LX\Desktop\Purchase and sale\DAL\bin\Debug\DbUtility.dll
+C:\Users\LX\Desktop\Purchase and sale\DAL\bin\Debug\DbUtility.pdb
+C:\Users\LX\Desktop\Purchase and sale\DAL\obj\Debug\DAL.csprojResolveAssemblyReference.cache
+C:\Users\LX\Desktop\Purchase and sale\DAL\obj\Debug\DAL.dll
+C:\Users\LX\Desktop\Purchase and sale\DAL\obj\Debug\DAL.pdb
+C:\Users\LX\Desktop\Purchase and sale - 副本 (3)\DAL\bin\Debug\DAL.dll
+C:\Users\LX\Desktop\Purchase and sale - 副本 (3)\DAL\bin\Debug\DAL.pdb
+C:\Users\LX\Desktop\Purchase and sale - 副本 (3)\DAL\bin\Debug\DbUtility.dll
+C:\Users\LX\Desktop\Purchase and sale - 副本 (3)\DAL\bin\Debug\DbUtility.pdb
+C:\Users\LX\Desktop\Purchase and sale - 副本 (3)\DAL\obj\Debug\DAL.csprojResolveAssemblyReference.cache
+C:\Users\LX\Desktop\Purchase and sale - 副本 (3)\DAL\obj\Debug\DAL.dll
+C:\Users\LX\Desktop\Purchase and sale - 副本 (3)\DAL\obj\Debug\DAL.pdb
+C:\Users\LX\Desktop\Purchase and sale - 副本 (3) - 副本\DAL\bin\Debug\DAL.dll
+C:\Users\LX\Desktop\Purchase and sale - 副本 (3) - 副本\DAL\bin\Debug\DAL.pdb
+C:\Users\LX\Desktop\Purchase and sale - 副本 (3) - 副本\DAL\bin\Debug\DbUtility.dll
+C:\Users\LX\Desktop\Purchase and sale - 副本 (3) - 副本\DAL\bin\Debug\DbUtility.pdb
+C:\Users\LX\Desktop\Purchase and sale - 副本 (3) - 副本\DAL\obj\Debug\DAL.csprojResolveAssemblyReference.cache
+C:\Users\LX\Desktop\Purchase and sale - 副本 (3) - 副本\DAL\obj\Debug\DAL.dll
+C:\Users\LX\Desktop\Purchase and sale - 副本 (3) - 副本\DAL\obj\Debug\DAL.pdb
+C:\Users\LX\Desktop\Purchase and sale - 副本 (3) - 副本 - 副本\DAL\bin\Debug\DAL.dll
+C:\Users\LX\Desktop\Purchase and sale - 副本 (3) - 副本 - 副本\DAL\bin\Debug\DAL.pdb
+C:\Users\LX\Desktop\Purchase and sale - 副本 (3) - 副本 - 副本\DAL\bin\Debug\DbUtility.dll
+C:\Users\LX\Desktop\Purchase and sale - 副本 (3) - 副本 - 副本\DAL\bin\Debug\DbUtility.pdb
+C:\Users\LX\Desktop\Purchase and sale - 副本 (3) - 副本 - 副本\DAL\obj\Debug\DAL.csprojResolveAssemblyReference.cache
+C:\Users\LX\Desktop\Purchase and sale - 副本 (3) - 副本 - 副本\DAL\obj\Debug\DAL.dll
+C:\Users\LX\Desktop\Purchase and sale - 副本 (3) - 副本 - 副本\DAL\obj\Debug\DAL.pdb
+C:\Users\LX\Desktop\Purchase and sale - 副本 (3) - 副本 - 副本 - 副本\DAL\bin\Debug\DAL.dll
+C:\Users\LX\Desktop\Purchase and sale - 副本 (3) - 副本 - 副本 - 副本\DAL\bin\Debug\DAL.pdb
+C:\Users\LX\Desktop\Purchase and sale - 副本 (3) - 副本 - 副本 - 副本\DAL\bin\Debug\DbUtility.dll
+C:\Users\LX\Desktop\Purchase and sale - 副本 (3) - 副本 - 副本 - 副本\DAL\bin\Debug\DbUtility.pdb
+C:\Users\LX\Desktop\Purchase and sale - 副本 (3) - 副本 - 副本 - 副本\DAL\obj\Debug\DAL.csprojResolveAssemblyReference.cache
+C:\Users\LX\Desktop\Purchase and sale - 副本 (3) - 副本 - 副本 - 副本\DAL\obj\Debug\DAL.dll
+C:\Users\LX\Desktop\Purchase and sale - 副本 (3) - 副本 - 副本 - 副本\DAL\obj\Debug\DAL.pdb
+C:\Users\LX\Desktop\Purchase and sale - 副本\DAL\bin\Debug\DAL.dll
+C:\Users\LX\Desktop\Purchase and sale - 副本\DAL\bin\Debug\DAL.pdb
+C:\Users\LX\Desktop\Purchase and sale - 副本\DAL\bin\Debug\DbUtility.dll
+C:\Users\LX\Desktop\Purchase and sale - 副本\DAL\bin\Debug\DbUtility.pdb
+C:\Users\LX\Desktop\Purchase and sale - 副本\DAL\obj\Debug\DAL.csprojResolveAssemblyReference.cache
+C:\Users\LX\Desktop\Purchase and sale - 副本\DAL\obj\Debug\DAL.dll
+C:\Users\LX\Desktop\Purchase and sale - 副本\DAL\obj\Debug\DAL.pdb
+F:\wu\期末作业\Purchase and sale\DAL\bin\Debug\DAL.dll
+F:\wu\期末作业\Purchase and sale\DAL\bin\Debug\DAL.pdb
+F:\wu\期末作业\Purchase and sale\DAL\bin\Debug\DbUtility.dll
+F:\wu\期末作业\Purchase and sale\DAL\bin\Debug\DbUtility.pdb
+F:\wu\期末作业\Purchase and sale\DAL\obj\Debug\DAL.csprojAssemblyReference.cache
+F:\wu\期末作业\Purchase and sale\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+F:\wu\期末作业\Purchase and sale\DAL\obj\Debug\DAL.csproj.CopyComplete
+F:\wu\期末作业\Purchase and sale\DAL\obj\Debug\DAL.dll
+F:\wu\期末作业\Purchase and sale\DAL\obj\Debug\DAL.pdb
+C:\Users\LX\Desktop\项目合集\winform\Purchase and sale\DAL\bin\Debug\DAL.dll
+C:\Users\LX\Desktop\项目合集\winform\Purchase and sale\DAL\bin\Debug\DAL.pdb
+C:\Users\LX\Desktop\项目合集\winform\Purchase and sale\DAL\bin\Debug\DbUtility.dll
+C:\Users\LX\Desktop\项目合集\winform\Purchase and sale\DAL\bin\Debug\DbUtility.pdb
+C:\Users\LX\Desktop\项目合集\winform\Purchase and sale\DAL\obj\Debug\DAL.dll
+C:\Users\LX\Desktop\项目合集\winform\Purchase and sale\DAL\obj\Debug\DAL.pdb
+C:\Users\LX\Desktop\项目合集\winform\Purchase and sale\DAL\obj\Debug\DAL.csprojResolveAssemblyReference.cache
+F:\项目合集\winform\Purchase and sale\DAL\bin\Debug\DAL.dll
+F:\项目合集\winform\Purchase and sale\DAL\bin\Debug\DAL.pdb
+F:\项目合集\winform\Purchase and sale\DAL\bin\Debug\DbUtility.dll
+F:\项目合集\winform\Purchase and sale\DAL\bin\Debug\DbUtility.pdb
+F:\项目合集\winform\Purchase and sale\DAL\obj\Debug\DAL.csproj.AssemblyReference.cache
+F:\项目合集\winform\Purchase and sale\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+F:\项目合集\winform\Purchase and sale\DAL\obj\Debug\DAL.csproj.CopyComplete
+F:\项目合集\winform\Purchase and sale\DAL\obj\Debug\DAL.dll
+F:\项目合集\winform\Purchase and sale\DAL\obj\Debug\DAL.pdb
